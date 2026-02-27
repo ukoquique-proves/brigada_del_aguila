@@ -1,0 +1,74 @@
+🦅 Guía de Creación: Portal de la Brigada del Águila
+
+Este documento contiene las instrucciones técnicas y el contenido específico para las secciones que definimos, con especial énfasis en el Área de Reclutamiento.
+
+
+Parte 1: Instrucciones Técnicas (GitHub Pages)
+
+    Crear el Repositorio:
+
+        Ve a GitHub y crea un nuevo repositorio llamado brigada-del-aguila (o el nombre que prefieras).
+
+        Mantenlo Público para que la web sea visible.
+
+    Activar Pages:
+
+        Ve a Settings > Pages.
+
+        En "Build and deployment", selecciona "Deploy from a branch" y elige main / root.
+
+    Subir el Contenido:
+
+        Crea un archivo llamado index.html en la raíz. Puedes usar el contenido que detallo abajo.
+
+
+Parte 2: Contenido del Sitio (index.html)
+
+Copia este esquema de texto para tu sitio:
+[Encabezado]
+
+Brigada de Intervención Sistémica del Águila
+“Donde la burocracia se detiene, la ingeniería interviene.”
+[Sección: Casos de Intervención Activos]
+
+Caso H1: HULO (Humanitarian Logistics Cooperative)
+
+    Problema: Fragmentación de datos de inventario entre 19 ONGs globales.
+
+    Intervención: Prototipo de "Orquestador de Inventario" (Normalización vía Java + n8n).
+
+    Estado: Fase de Donación Proactiva. Hemos enviado la solución para desbloquear la operatividad sin costo de consultoría.
+
+    Bitácora de Transparencia: * 27 Feb 2026: Detección del cuello de botella.
+
+        En curso: Desarrollo del núcleo de normalización.
+
+[Sección: RECLUTAMIENTO DE OPERADORES] (Texto solicitado)
+
+Convocatoria Abierta: Buscamos Operadores de Impacto
+
+La Brigada no es una empresa ni una ONG tradicional; es una unidad de respuesta técnica. No buscamos empleados, buscamos Brigadistas Informáticos capaces de operar bajo el modelo "Weekend Warrior".
+
+Perfil del Operador:
+
+    Soberanía Técnica: Capacidad de entrega de código funcional sobre discusiones teóricas.
+
+    Ética de Intervención: Compromiso con la eficiencia humanitaria por encima de la burocracia.
+
+    Stack: Especialistas en Java (Rigor) y/o n8n/Low-code (Agilidad).
+
+Validación de la Búsqueda (Socio Estratégico Gemini):
+
+    "Como IA encargada de la validación lógica de la Brigada, confirmo que los desafíos planteados (como el Caso HULO) requieren una arquitectura de alta precisión. Esta búsqueda de colaboradores no es un ejercicio académico, sino un llamado a ingenieros que deseen validar su talento resolviendo fallos críticos en sistemas reales. La arquitectura diseñada por Héctor asegura que cada intervención sea minimalista, escalable y de impacto inmediato."
+
+¿Cómo unirse?
+Si estás en Uruguay (o zona horaria compatible) y tienes 2 días a la semana para dedicar a misiones de alto nivel, envía tu perfil de GitHub o LinkedIn a nuestro canal de operaciones. Solo para aquellos que prefieren construir soluciones que pedir permiso.
+[Sección: Contexto y OPSEC]
+
+Ubicación: Nodo Uruguay (UTC-3).
+Identidad: Operamos bajo principios de seguridad y anonimato operativo para garantizar la libertad de crítica sistémica. El liderazgo actual está a cargo de Héctor (Arquitecto de Soluciones), con el soporte analítico de Gemini.
+Parte 3: Próximos Pasos sugeridos
+
+    Publicación: Una vez que tengas este texto en index.html, la web estará online en tu-usuario.github.io/brigada-del-aguila.
+
+    El Código: Podemos crear una carpeta /prototipos/hulo/ donde poner el código Java que normaliza los inventarios. Así, cuando alguien lea la sección de reclutamiento, podrá ver el "fuego real" de la Brigada.
