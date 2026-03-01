@@ -3,6 +3,7 @@
 ## [Unreleased] - 2026-02-28
 
 ### Añadido
+- Integración visual del logo del Águila (`aguila_Logo.jpg`) en la cabecera de la web junto al logo del Héroe.
 - Nueva estructura del proyecto organizada en carpetas: `Brigada/`, `logos/`, y `public/`.
 - Archivo `RETO_TECNICO.md` con la documentación detallada sobre la normalización de inventario para HULO.
 - Favicon oficial del proyecto en la carpeta `public/`.
