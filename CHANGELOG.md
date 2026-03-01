@@ -3,6 +3,8 @@
 ## [Unreleased] - 2026-02-28
 
 ### Añadido
+- Nueva sección "REGISTROS DE LA RESISTENCIA" con videos incrustados sobre Pieter Levels, ética insurgente y vibe coding.
+- Actualización del Favicon (`favicon.png`) con el diseño oficial de la Brigada.
 - Integración visual del logo del Águila (`aguila_Logo.jpg`) en la cabecera de la web junto al logo del Héroe.
 - Nueva estructura del proyecto organizada en carpetas: `Brigada/`, `logos/`, y `public/`.
 - Archivo `RETO_TECNICO.md` con la documentación detallada sobre la normalización de inventario para HULO.
@@ -17,3 +19,5 @@
 ### Corregido
 - Ajuste de textos en la sección de estado para mayor precisión operativa.
 - Limpieza de remotos antiguos y configuración de autenticación mediante Personal Access Token (PAT).
+- Actualización de referencia de favicon a `favicon-32x32.png` según especificaciones de FAVICON.md.
+- Documentación de implementación de favicon optimizado para máxima visibilidad en pestañas del navegador.
