@@ -1,0 +1,20 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Minimalist Neon Hero/Architect -->
+  <rect x="60" y="60" width="80" height="80" rx="10" fill="none" stroke="#39FF14" stroke-width="4" />
+  <path d="M80 80 L120 120 M120 80 L80 120" fill="none" stroke="#39FF14" stroke-width="3" />
+  <circle cx="100" cy="100" r="10" fill="#39FF14" />
+  <!-- External Orbits -->
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#39FF14" stroke-width="1" stroke-dasharray="10,10" opacity="0.5" />
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <style>
+    rect, path, circle { filter: url(#glow); }
+  </style>
+</svg>
