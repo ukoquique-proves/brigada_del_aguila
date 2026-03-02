@@ -1,0 +1,13 @@
+# Assets
+*.xlsx
+*.tar.gz
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Idea/Editor Files
+.vscode/
+.idea/
+*.swp
+*.bak
